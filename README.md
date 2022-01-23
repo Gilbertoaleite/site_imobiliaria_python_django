@@ -1,0 +1,2 @@
+# site_imobiliaria_python_django
+Site fictício de uma imobiliária, feito com Python e Django, com o front e o crud em um único projeto , para rodar bastar instalar com o pip install django , e o pip install pillow, e em seguida utilizar o python manage.py runserver, e  acessar painel do django http://127.0.0.1:8000/admin/auth/user/    http://127.0.0.1:8000/auth/logar/  //logar no painel do front end  para conseguir ver os imóveis tem está logado.
